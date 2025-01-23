@@ -3,7 +3,7 @@
   "version": "2.12.3",
   "author": "Germey Technology <dev@germey.tech>",
   "engines": {
-    "node": "20.0.0"
+    "node": "22.13.1"
   },
   "repository": {
     "type": "git",
