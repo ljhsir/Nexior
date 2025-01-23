@@ -2,9 +2,6 @@
   "name": "@acedatacloud/nexior",
   "version": "2.12.3",
   "author": "Germey Technology <dev@germey.tech>",
-  "engines": {
-    "node": "22.13.1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AceDataCloud/Nexior.git"
